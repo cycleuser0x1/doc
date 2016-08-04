@@ -15,3 +15,9 @@
 |name	|aaaaaaaaaaaaaa|ssdas	|222		|sad		|
 |ss		|222222222222222222	|zxcccccc	|sadas		|asdas		|
 
+* 响应参数
+`
+{
+	"postName":postValue
+}
+`
