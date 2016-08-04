@@ -18,8 +18,8 @@
 * 响应参数
 
 `
-{
-	"postName":postValue,
-	"postName_":postValue_
-}
+	{
+		"postName":postValue,
+		"postName_":postValue_
+	}
 `
