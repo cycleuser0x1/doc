@@ -10,10 +10,10 @@
 
 * 请求参数
 
-|参数		|参数名称	|是否必传	|描述		|示例值		|
+|参数|参数名称|是否必传|描述|示例值|
 |-----------|-----------|-----------|-----------|-----------|
-|name	|aaaaaaaaaaaaaa|ssdas|222|sad|
-|ss	|222222222222222222|zxcccccc|sadas|asdas|
+|name|aaaaaaaaaaaaaa|ssdas|222|sad|
+|ss|222222222222222222|zxcccccc|sadas|asdas|
 
 * 响应参数
 
